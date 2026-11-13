@@ -1,0 +1,4452 @@
+[
+  {
+    "parent": "allotrope",
+    "child": "carbon allotrope",
+    "score": 0.9946150183677673
+  },
+  {
+    "parent": "Carbon",
+    "child": "carbon allotrope",
+    "score": 0.5573635101318359
+  },
+  {
+    "parent": "element",
+    "child": "Silicon",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "volume",
+    "child": "specific volume",
+    "score": 0.9637799859046936
+  },
+  {
+    "parent": "measured property",
+    "child": "specific volume",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "Lattice Parameter A",
+    "child": "Lattice Parameter B",
+    "score": 0.5743947625160217
+  },
+  {
+    "parent": "Lattice Parameter",
+    "child": "Lattice Parameter B",
+    "score": 0.9945730566978455
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "Lattice Parameter B",
+    "score": 0.47341376543045044
+  },
+  {
+    "parent": "series element",
+    "child": "element",
+    "score": 0.9902915358543396
+  },
+  {
+    "parent": "organic group",
+    "child": "carbon group",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "aldehyde group",
+    "child": "carbon group",
+    "score": 0.6006569266319275
+  },
+  {
+    "parent": "element",
+    "child": "Carbon",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "non polar addition reaction",
+    "child": "addition reaction",
+    "score": 0.9658995866775513
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "addition reaction",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "organic reaction",
+    "child": "addition reaction",
+    "score": 0.7318258881568909
+  },
+  {
+    "parent": "Hardness Range Upper Bound",
+    "child": "Hardness Range Lower Bound",
+    "score": 0.5992506742477417
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "Hardness Range Lower Bound",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "Hardness",
+    "child": "Hardness Range Lower Bound",
+    "score": 0.46295860409736633
+  },
+  {
+    "parent": "measured property",
+    "child": "Hardness Range Lower Bound",
+    "score": 0.9889278411865234
+  },
+  {
+    "parent": "chemical quality",
+    "child": "Hardness Range Lower Bound",
+    "score": 0.9810219407081604
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Hardness Range Lower Bound",
+    "score": 0.9695556163787842
+  },
+  {
+    "parent": "acidic",
+    "child": "carboxylic acid",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "organic compound",
+    "child": "carboxylic acid",
+    "score": 0.9830850958824158
+  },
+  {
+    "parent": "density unit",
+    "child": "energy density unit",
+    "score": 0.9778834581375122
+  },
+  {
+    "parent": "energy unit",
+    "child": "energy density unit",
+    "score": 0.7185943722724915
+  },
+  {
+    "parent": "unit",
+    "child": "energy density unit",
+    "score": 0.9927109479904175
+  },
+  {
+    "parent": "energy unit",
+    "child": "molar energy unit",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "unit",
+    "child": "molar energy unit",
+    "score": 0.9934101700782776
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "molar energy unit",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "atom",
+    "child": "Antimony Atom",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "Concentration",
+    "child": "parts per notation",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "thermal conduction",
+    "child": "conduction",
+    "score": 0.9896718263626099
+  },
+  {
+    "parent": "measured property",
+    "child": "conduction",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "process",
+    "child": "conduction",
+    "score": 0.7872777581214905
+  },
+  {
+    "parent": "compound",
+    "child": "organic compound",
+    "score": 0.9896718263626099
+  },
+  {
+    "parent": "chemical substance",
+    "child": "organic compound",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "chemical quality",
+    "child": "organic compound",
+    "score": 0.9556514620780945
+  },
+  {
+    "parent": "Reagent",
+    "child": "organic compound",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "displacement reaction",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "DoubleDisplacementReaction",
+    "child": "displacement reaction",
+    "score": 0.9681411385536194
+  },
+  {
+    "parent": "liquid phase",
+    "child": "super fluid phase",
+    "score": 0.9912885427474976
+  },
+  {
+    "parent": "chemical phase",
+    "child": "super fluid phase",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "super fluid phase",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "super fluid phase",
+    "score": 0.992061972618103
+  },
+  {
+    "parent": "radiation unit",
+    "child": "exposure unit",
+    "score": 0.9878528118133545
+  },
+  {
+    "parent": "unit",
+    "child": "exposure unit",
+    "score": 0.9926542043685913
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "exposure unit",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "space group",
+    "child": "point group",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "space group property",
+    "child": "point group",
+    "score": 0.9884026646614075
+  },
+  {
+    "parent": "organic group",
+    "child": "point group",
+    "score": 0.5336405038833618
+  },
+  {
+    "parent": "aldehyde group",
+    "child": "point group",
+    "score": 0.5576044321060181
+  },
+  {
+    "parent": "object",
+    "child": "object_aggregate",
+    "score": 0.9876639246940613
+  },
+  {
+    "parent": "organic compound",
+    "child": "object_aggregate",
+    "score": 0.8311430811882019
+  },
+  {
+    "parent": "compound",
+    "child": "object_aggregate",
+    "score": 0.9881309270858765
+  },
+  {
+    "parent": "mixture",
+    "child": "object_aggregate",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "heterogeneous mixture",
+    "child": "object_aggregate",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "chemical substance",
+    "child": "object_aggregate",
+    "score": 0.9919379353523254
+  },
+  {
+    "parent": "acidity",
+    "child": "pH",
+    "score": 0.9921233057975769
+  },
+  {
+    "parent": "Concentration",
+    "child": "pH",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "chemical quality",
+    "child": "pH",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "molality",
+    "child": "pH",
+    "score": 0.9383503198623657
+  },
+  {
+    "parent": "intensive property",
+    "child": "flexural strength",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "measured property",
+    "child": "flexural strength",
+    "score": 0.9928231239318848
+  },
+  {
+    "parent": "quality",
+    "child": "role",
+    "score": 0.879974365234375
+  },
+  {
+    "parent": "processual_context",
+    "child": "process",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "processual_entity",
+    "child": "process",
+    "score": 0.9946980476379395
+  },
+  {
+    "parent": "hydrophobicity",
+    "child": "hydrophilic",
+    "score": 0.9946980476379395
+  },
+  {
+    "parent": "chemical substance",
+    "child": "hydrophilic",
+    "score": 0.45859116315841675
+  },
+  {
+    "parent": "polarity",
+    "child": "hydrophilic",
+    "score": 0.9785493016242981
+  },
+  {
+    "parent": "chemical quality",
+    "child": "hydrophilic",
+    "score": 0.9934611320495605
+  },
+  {
+    "parent": "measured property",
+    "child": "electric charge density",
+    "score": 0.9905874133110046
+  },
+  {
+    "parent": "element",
+    "child": "Tantalum",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "series element",
+    "child": "Tantalum",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "group element",
+    "child": "group 6 element",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "series element",
+    "child": "group 6 element",
+    "score": 0.991355836391449
+  },
+  {
+    "parent": "atom",
+    "child": "Barium Atom",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "atom",
+    "child": "Chromium Atom",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "object",
+    "child": "unit",
+    "score": 0.9820137619972229
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "unit",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "basic",
+    "child": "unit",
+    "score": 0.5602526664733887
+  },
+  {
+    "parent": "Lattice Parameter",
+    "child": "Lattice Parameter A",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "Lattice Parameter B",
+    "child": "Lattice Parameter A",
+    "score": 0.7661187648773193
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "Lattice Parameter A",
+    "score": 0.46150216460227966
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "inorganic reaction",
+    "score": 0.994820237159729
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "inorganic reaction",
+    "score": 0.47073662281036377
+  },
+  {
+    "parent": "chemical quality",
+    "child": "inorganic reaction",
+    "score": 0.9821512699127197
+  },
+  {
+    "parent": "process",
+    "child": "inorganic reaction",
+    "score": 0.9801293015480042
+  },
+  {
+    "parent": "catalyzed reaction",
+    "child": "catalytic activity",
+    "score": 0.6951311230659485
+  },
+  {
+    "parent": "chemical quality",
+    "child": "catalytic activity",
+    "score": 0.9903663396835327
+  },
+  {
+    "parent": "element",
+    "child": "Ununpentium",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "radiant intensity",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "intensive property",
+    "child": "radiant intensity",
+    "score": 0.9929881691932678
+  },
+  {
+    "parent": "density",
+    "child": "area density",
+    "score": 0.9908034801483154
+  },
+  {
+    "parent": "measured property",
+    "child": "area density",
+    "score": 0.9858275651931763
+  },
+  {
+    "parent": "element",
+    "child": "Ytterbium",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "Carbon",
+    "child": "hydrocarbon",
+    "score": 0.9828232526779175
+  },
+  {
+    "parent": "chemical substance",
+    "child": "hydrocarbon",
+    "score": 0.9026095867156982
+  },
+  {
+    "parent": "organic compound",
+    "child": "hydrocarbon",
+    "score": 0.9949396848678589
+  },
+  {
+    "parent": "compound",
+    "child": "hydrocarbon",
+    "score": 0.7902066707611084
+  },
+  {
+    "parent": "Reagent",
+    "child": "hydrocarbon",
+    "score": 0.8787311315536499
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "partition coefficient",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "independent_continuant",
+    "child": "partition coefficient",
+    "score": 0.9026095867156982
+  },
+  {
+    "parent": "amine",
+    "child": "secondary amine",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "organic reaction",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "process",
+    "child": "organic reaction",
+    "score": 0.9886682629585266
+  },
+  {
+    "parent": "chemical quality",
+    "child": "organic reaction",
+    "score": 0.9815951585769653
+  },
+  {
+    "parent": "measured property",
+    "child": "elastic modulus",
+    "score": 0.9934101700782776
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "polarity",
+    "score": 0.5872331261634827
+  },
+  {
+    "parent": "electric charge",
+    "child": "polarity",
+    "score": 0.8474634885787964
+  },
+  {
+    "parent": "quality",
+    "child": "polarity",
+    "score": 0.9008791446685791
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "polarity",
+    "score": 0.9278878569602966
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "acid-base reaction",
+    "score": 0.9930423498153687
+  },
+  {
+    "parent": "organic reaction",
+    "child": "acid-base reaction",
+    "score": 0.9852713346481323
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "youngs modulus",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "element",
+    "child": "Iridium",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "series element",
+    "child": "Iridium",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "unit",
+    "child": "amount of substance unit",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "concentration unit",
+    "child": "catalytic concentration unit",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "unit",
+    "child": "catalytic concentration unit",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "element",
+    "child": "Antimony",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "series element",
+    "child": "Antimony",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "spatial_region",
+    "child": "three_dimensional_region",
+    "score": 0.9944451451301575
+  },
+  {
+    "parent": "object",
+    "child": "three_dimensional_region",
+    "score": 0.9840936064720154
+  },
+  {
+    "parent": "element",
+    "child": "Hassium",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "series element",
+    "child": "Hassium",
+    "score": 0.9949396848678589
+  },
+  {
+    "parent": "density unit",
+    "child": "volume density unit",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "volume unit",
+    "child": "volume density unit",
+    "score": 0.6171665787696838
+  },
+  {
+    "parent": "unit",
+    "child": "volume density unit",
+    "score": 0.5910152792930603
+  },
+  {
+    "parent": "object",
+    "child": "ring",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "cyclic",
+    "child": "ring",
+    "score": 0.917302668094635
+  },
+  {
+    "parent": "atom",
+    "child": "Fluorine Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "unit",
+    "child": "electric field strength unit",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "electric field strength unit",
+    "score": 0.9945730566978455
+  },
+  {
+    "parent": "bond",
+    "child": "covalent bond",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "syn conformation",
+    "score": 0.9946150183677673
+  },
+  {
+    "parent": "element",
+    "child": "Cobalt",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "series element",
+    "child": "Cobalt",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "plastics",
+    "child": "polymers",
+    "score": 0.9837225079536438
+  },
+  {
+    "parent": "material",
+    "child": "polymers",
+    "score": 0.8887588381767273
+  },
+  {
+    "parent": "organic compound",
+    "child": "polymers",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "chemical substance",
+    "child": "polymers",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "material category",
+    "child": "polymers",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "chemical quality",
+    "child": "polymers",
+    "score": 0.9894295334815979
+  },
+  {
+    "parent": "bond",
+    "child": "ionic bond",
+    "score": 0.9924227595329285
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "molecular geometry",
+    "score": 0.9910838603973389
+  },
+  {
+    "parent": "atom property",
+    "child": "molecular geometry",
+    "score": 0.9529258608818054
+  },
+  {
+    "parent": "group element",
+    "child": "group 12 element",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "series element",
+    "child": "group 12 element",
+    "score": 0.9917484521865845
+  },
+  {
+    "parent": "element",
+    "child": "Chromium",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "series element",
+    "child": "Chromium",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "entropy",
+    "child": "molar entropy",
+    "score": 0.9906600117683411
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "molar entropy",
+    "score": 0.8219034671783447
+  },
+  {
+    "parent": "measured property",
+    "child": "molar entropy",
+    "score": 0.9929336309432983
+  },
+  {
+    "parent": "chemical quality",
+    "child": "molar entropy",
+    "score": 0.9916195869445801
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "radiant intensity unit",
+    "score": 0.9930423498153687
+  },
+  {
+    "parent": "unit",
+    "child": "radiant intensity unit",
+    "score": 0.9928786158561707
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "radiant intensity unit",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "unit",
+    "child": "information unit",
+    "score": 0.992061972618103
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "information unit",
+    "score": 0.9947799444198608
+  },
+  {
+    "parent": "intensive property",
+    "child": "Stress",
+    "score": 0.9918121099472046
+  },
+  {
+    "parent": "identifier",
+    "child": "canonical smiles",
+    "score": 0.9950177073478699
+  },
+  {
+    "parent": "energy",
+    "child": "specific energy",
+    "score": 0.9893474578857422
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific energy",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "atom",
+    "child": "Zinc Atom",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "irradiance unit",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "unit",
+    "child": "irradiance unit",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "irradiance unit",
+    "score": 0.5302364826202393
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "irradiance unit",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "Carbon",
+    "child": "graphite",
+    "score": 0.9912885427474976
+  },
+  {
+    "parent": "element",
+    "child": "graphite",
+    "score": 0.9870795607566833
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "graphite",
+    "score": 0.9946568012237549
+  },
+  {
+    "parent": "material category",
+    "child": "graphite",
+    "score": 0.46198752522468567
+  },
+  {
+    "parent": "hydrocarbon",
+    "child": "graphite",
+    "score": 0.9695556163787842
+  },
+  {
+    "parent": "organic compound",
+    "child": "graphite",
+    "score": 0.957912266254425
+  },
+  {
+    "parent": "amine group",
+    "child": "secondary amine group",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "organic group",
+    "child": "secondary amine group",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "aldehyde group",
+    "child": "secondary amine group",
+    "score": 0.6380463242530823
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "uncommon chemical phase",
+    "score": 0.9919379353523254
+  },
+  {
+    "parent": "chemical phase",
+    "child": "uncommon chemical phase",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "chemical quality",
+    "child": "uncommon chemical phase",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "isomer",
+    "child": "D or L isomer",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "LIsomer",
+    "child": "D or L isomer",
+    "score": 0.9822876453399658
+  },
+  {
+    "parent": "compound",
+    "child": "D or L isomer",
+    "score": 0.8116759657859802
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "D or L isomer",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "organic compound",
+    "child": "D or L isomer",
+    "score": 0.49951171875
+  },
+  {
+    "parent": "Reagent",
+    "child": "D or L isomer",
+    "score": 0.9569571614265442
+  },
+  {
+    "parent": "solvent",
+    "child": "solute",
+    "score": 0.6748009920120239
+  },
+  {
+    "parent": "compound",
+    "child": "solute",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "Reagent",
+    "child": "solute",
+    "score": 0.9949001669883728
+  },
+  {
+    "parent": "chemical substance",
+    "child": "solute",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "chemical substance",
+    "child": "molecule",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "compound",
+    "child": "molecule",
+    "score": 0.9933589100837708
+  },
+  {
+    "parent": "organic compound",
+    "child": "molecule",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "molecule",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "pure substance",
+    "child": "molecule",
+    "score": 0.46587345004081726
+  },
+  {
+    "parent": "entity",
+    "child": "molecule",
+    "score": 0.9918121099472046
+  },
+  {
+    "parent": "chemical quality",
+    "child": "molecule",
+    "score": 0.9920002222061157
+  },
+  {
+    "parent": "object",
+    "child": "molecule",
+    "score": 0.9932550191879272
+  },
+  {
+    "parent": "material",
+    "child": "molecule",
+    "score": 0.9814534187316895
+  },
+  {
+    "parent": "extensive property",
+    "child": "Hardness Range",
+    "score": 0.7534666657447815
+  },
+  {
+    "parent": "measured property",
+    "child": "Hardness Range",
+    "score": 0.9933589100837708
+  },
+  {
+    "parent": "chemical quality",
+    "child": "Hardness Range",
+    "score": 0.9909447431564331
+  },
+  {
+    "parent": "element",
+    "child": "Helium",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "series element",
+    "child": "Helium",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "processual_entity",
+    "child": "processual_context",
+    "score": 0.9948603510856628
+  },
+  {
+    "parent": "process",
+    "child": "processual_context",
+    "score": 0.9500414729118347
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "processual_context",
+    "score": 0.9918121099472046
+  },
+  {
+    "parent": "carbon group",
+    "child": "carbon group element",
+    "score": 0.9753900170326233
+  },
+  {
+    "parent": "group element",
+    "child": "carbon group element",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "organic group",
+    "child": "carbon group element",
+    "score": 0.9932550191879272
+  },
+  {
+    "parent": "density",
+    "child": "energy density",
+    "score": 0.9637799859046936
+  },
+  {
+    "parent": "intensive property",
+    "child": "energy density",
+    "score": 0.5034179091453552
+  },
+  {
+    "parent": "measured property",
+    "child": "energy density",
+    "score": 0.992061972618103
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "stereoisomer",
+    "score": 0.9947799444198608
+  },
+  {
+    "parent": "isomer",
+    "child": "stereoisomer",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "compound",
+    "child": "stereoisomer",
+    "score": 0.8164063692092896
+  },
+  {
+    "parent": "organic compound",
+    "child": "stereoisomer",
+    "score": 0.9928786158561707
+  },
+  {
+    "parent": "Reagent",
+    "child": "stereoisomer",
+    "score": 0.9651191234588623
+  },
+  {
+    "parent": "LIsomer",
+    "child": "stereoisomer",
+    "score": 0.45604634284973145
+  },
+  {
+    "parent": "solvent",
+    "child": "nonpolar solvent",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "polar solvent",
+    "child": "nonpolar solvent",
+    "score": 0.9930961728096008
+  },
+  {
+    "parent": "chemical substance",
+    "child": "nonpolar solvent",
+    "score": 0.9933589100837708
+  },
+  {
+    "parent": "organic compound",
+    "child": "nonpolar solvent",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "chemical quality",
+    "child": "nonpolar solvent",
+    "score": 0.6572359800338745
+  },
+  {
+    "parent": "Reagent",
+    "child": "nonpolar solvent",
+    "score": 0.9872773289680481
+  },
+  {
+    "parent": "entity",
+    "child": "realizable_entity",
+    "score": 0.9930961728096008
+  },
+  {
+    "parent": "extensive property",
+    "child": "realizable_entity",
+    "score": 0.9525741338729858
+  },
+  {
+    "parent": "measured property",
+    "child": "realizable_entity",
+    "score": 0.9957352876663208
+  },
+  {
+    "parent": "independent_continuant",
+    "child": "realizable_entity",
+    "score": 0.9882221817970276
+  },
+  {
+    "parent": "quality",
+    "child": "realizable_entity",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "information",
+    "child": "realizable_entity",
+    "score": 0.7745833992958069
+  },
+  {
+    "parent": "unit",
+    "child": "time unit",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "time unit",
+    "score": 0.9949001669883728
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "allotrope",
+    "score": 0.989591658115387
+  },
+  {
+    "parent": "element",
+    "child": "allotrope",
+    "score": 0.9752018451690674
+  },
+  {
+    "parent": "Reagent",
+    "child": "allotrope",
+    "score": 0.9136765599250793
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "temporal_region",
+    "score": 0.9918753504753113
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "temporal_region",
+    "score": 0.9870795607566833
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "temporal_region",
+    "score": 0.9324532747268677
+  },
+  {
+    "parent": "continuant",
+    "child": "temporal_region",
+    "score": 0.9890130758285522
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "temporal_region",
+    "score": 0.9863631129264832
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "electronic interaction",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "chemical substance",
+    "child": "chemical agent",
+    "score": 0.9921841025352478
+  },
+  {
+    "parent": "chemical quality",
+    "child": "chemical agent",
+    "score": 0.9899863600730896
+  },
+  {
+    "parent": "Reagent",
+    "child": "chemical agent",
+    "score": 0.9924227595329285
+  },
+  {
+    "parent": "compound",
+    "child": "chemical agent",
+    "score": 0.9640516638755798
+  },
+  {
+    "parent": "element",
+    "child": "Berkelium",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "actinide",
+    "child": "Berkelium",
+    "score": 0.47097986936569214
+  },
+  {
+    "parent": "series element",
+    "child": "Berkelium",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "chemical phase",
+    "score": 0.9922444224357605
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "chemical phase",
+    "score": 0.9912885427474976
+  },
+  {
+    "parent": "chemical quality",
+    "child": "chemical phase",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "unit",
+    "child": "electric resistance unit",
+    "score": 0.9934611320495605
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "electric resistance unit",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "atom",
+    "child": "Rutherfordium Atom",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "atom",
+    "child": "Copper Atom",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "Temperature Range Upper Bound",
+    "child": "Temperature Range Lower Bound",
+    "score": 0.7262315154075623
+  },
+  {
+    "parent": "Temperature Range",
+    "child": "Temperature Range Lower Bound",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "measured property",
+    "child": "Temperature Range Lower Bound",
+    "score": 0.9914886951446533
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "Temperature Range Lower Bound",
+    "score": 0.56817626953125
+  },
+  {
+    "parent": "temporal_region",
+    "child": "Temperature Range Lower Bound",
+    "score": 0.7140302062034607
+  },
+  {
+    "parent": "measured property",
+    "child": "angular acceleration",
+    "score": 0.9930961728096008
+  },
+  {
+    "parent": "temporal_region",
+    "child": "connected_temporal_region",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "connected_temporal_region",
+    "score": 0.9919379353523254
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "connected_temporal_region",
+    "score": 0.9427180886268616
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "connected_temporal_region",
+    "score": 0.9804313778877258
+  },
+  {
+    "parent": "chemical quality",
+    "child": "Concentration",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "measured property",
+    "child": "Concentration",
+    "score": 0.9946980476379395
+  },
+  {
+    "parent": "spatial_region",
+    "child": "one_dimensional_region",
+    "score": 0.9925393462181091
+  },
+  {
+    "parent": "element",
+    "child": "Rhodium",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "solvent",
+    "child": "ether",
+    "score": 0.9951702952384949
+  },
+  {
+    "parent": "compound",
+    "child": "ether",
+    "score": 0.9927109479904175
+  },
+  {
+    "parent": "chemical substance",
+    "child": "ether",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "organic compound",
+    "child": "ether",
+    "score": 0.9947391152381897
+  },
+  {
+    "parent": "series element",
+    "child": "ether",
+    "score": 0.9912208914756775
+  },
+  {
+    "parent": "Reagent",
+    "child": "ether",
+    "score": 0.9917484521865845
+  },
+  {
+    "parent": "name",
+    "child": "CAS name",
+    "score": 0.9897513389587402
+  },
+  {
+    "parent": "information",
+    "child": "CAS name",
+    "score": 0.4700067639350891
+  },
+  {
+    "parent": "halogen",
+    "child": "acyl halide",
+    "score": 0.6499119400978088
+  },
+  {
+    "parent": "organic compound",
+    "child": "acyl halide",
+    "score": 0.5760650634765625
+  },
+  {
+    "parent": "organic compound",
+    "child": "compound",
+    "score": 0.9928231239318848
+  },
+  {
+    "parent": "chemical substance",
+    "child": "compound",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "chemical agent",
+    "child": "compound",
+    "score": 0.9901401400566101
+  },
+  {
+    "parent": "material",
+    "child": "compound",
+    "score": 0.9902915358543396
+  },
+  {
+    "parent": "Reagent",
+    "child": "compound",
+    "score": 0.9944451451301575
+  },
+  {
+    "parent": "element",
+    "child": "Thorium",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "series element",
+    "child": "Thorium",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "atom",
+    "child": "Hafnium Atom",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "measured property",
+    "child": "intensive property",
+    "score": 0.994820237159729
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "intensive property",
+    "score": 0.9934611320495605
+  },
+  {
+    "parent": "quality",
+    "child": "intensive property",
+    "score": 0.9924813508987427
+  },
+  {
+    "parent": "chemical quality",
+    "child": "intensive property",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "group element",
+    "child": "group 8 element",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "series element",
+    "child": "group 8 element",
+    "score": 0.9916841983795166
+  },
+  {
+    "parent": "unit",
+    "child": "velocity unit",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "velocity unit",
+    "score": 0.9949396848678589
+  },
+  {
+    "parent": "element",
+    "child": "series element",
+    "score": 0.9522199034690857
+  },
+  {
+    "parent": "Lattice Parameter",
+    "child": "Lattice Parameter C",
+    "score": 0.9948603510856628
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "Lattice Parameter C",
+    "score": 0.6531268954277039
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "magnetic flux",
+    "score": 0.9802808165550232
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "luminous intensity unit",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "unit",
+    "child": "luminous intensity unit",
+    "score": 0.9927672147750854
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "luminous intensity unit",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "luminous intensity unit",
+    "score": 0.7701191902160645
+  },
+  {
+    "parent": "angle",
+    "child": "plane angle",
+    "score": 0.9929336309432983
+  },
+  {
+    "parent": "intensive property",
+    "child": "Hardness",
+    "score": 0.5728422403335571
+  },
+  {
+    "parent": "quality",
+    "child": "Hardness",
+    "score": 0.7846492528915405
+  },
+  {
+    "parent": "measured property",
+    "child": "Hardness",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "chemical quality",
+    "child": "Hardness",
+    "score": 0.9932550191879272
+  },
+  {
+    "parent": "unit",
+    "child": "electromagnetic radiation unit",
+    "score": 0.9924813508987427
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "electromagnetic radiation unit",
+    "score": 0.9934611320495605
+  },
+  {
+    "parent": "atom",
+    "child": "Scandium Atom",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "unit",
+    "child": "angle unit",
+    "score": 0.9930961728096008
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "angle unit",
+    "score": 0.9950562715530396
+  },
+  {
+    "parent": "organic group",
+    "child": "amine group",
+    "score": 0.9944451451301575
+  },
+  {
+    "parent": "aldehyde group",
+    "child": "amine group",
+    "score": 0.6818326711654663
+  },
+  {
+    "parent": "atom",
+    "child": "Carbon Atom",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "atom",
+    "child": "Molybdenum Atom",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "atom",
+    "child": "Berkelium Atom",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "ring",
+    "child": "cyclic",
+    "score": 0.9910145401954651
+  },
+  {
+    "parent": "area",
+    "child": "hall",
+    "score": 0.4897475242614746
+  },
+  {
+    "parent": "object",
+    "child": "hall",
+    "score": 0.9905142784118652
+  },
+  {
+    "parent": "continuant",
+    "child": "hall",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "material category",
+    "child": "hall",
+    "score": 0.5990160703659058
+  },
+  {
+    "parent": "identifier",
+    "child": "pubchem cid",
+    "score": 0.9929881691932678
+  },
+  {
+    "parent": "chemical substance",
+    "child": "atom",
+    "score": 0.9888418912887573
+  },
+  {
+    "parent": "organic compound",
+    "child": "atom",
+    "score": 0.8803863525390625
+  },
+  {
+    "parent": "atom",
+    "child": "Lead Atom",
+    "score": 0.9949001669883728
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "clinal conformation",
+    "score": 0.9946150183677673
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "bulk modulus",
+    "score": 0.9932025074958801
+  },
+  {
+    "parent": "intensive property",
+    "child": "bulk modulus",
+    "score": 0.9920002222061157
+  },
+  {
+    "parent": "compound",
+    "child": "bulk modulus",
+    "score": 0.8563323616981506
+  },
+  {
+    "parent": "organic group",
+    "child": "ether group",
+    "score": 0.9948603510856628
+  },
+  {
+    "parent": "aldehyde group",
+    "child": "ether group",
+    "score": 0.9759464263916016
+  },
+  {
+    "parent": "amine group",
+    "child": "amine",
+    "score": 0.9824230670928955
+  },
+  {
+    "parent": "process",
+    "child": "occurrent",
+    "score": 0.7585106492042542
+  },
+  {
+    "parent": "Concentration",
+    "child": "occurrent",
+    "score": 0.9773707389831543
+  },
+  {
+    "parent": "quality",
+    "child": "occurrent",
+    "score": 0.9460012316703796
+  },
+  {
+    "parent": "processual_context",
+    "child": "occurrent",
+    "score": 0.9811668992042542
+  },
+  {
+    "parent": "entity",
+    "child": "occurrent",
+    "score": 0.994820237159729
+  },
+  {
+    "parent": "measured property",
+    "child": "temperature",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "atom",
+    "child": "Technetium Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "diastereomer",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "isomer",
+    "child": "diastereomer",
+    "score": 0.9796676635742188
+  },
+  {
+    "parent": "organic compound",
+    "child": "diastereomer",
+    "score": 0.8816148638725281
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "diastereomer",
+    "score": 0.9759464263916016
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "luminous flux unit",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "unit",
+    "child": "luminous flux unit",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "luminous flux unit",
+    "score": 0.9489172697067261
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "luminous flux unit",
+    "score": 0.9944451451301575
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "luminance",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "measured property",
+    "child": "luminance",
+    "score": 0.9932025074958801
+  },
+  {
+    "parent": "isomer",
+    "child": "OpticalIsomer",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "compound",
+    "child": "OpticalIsomer",
+    "score": 0.9927109479904175
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "OpticalIsomer",
+    "score": 0.9899863600730896
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "OpticalIsomer",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "element",
+    "child": "Polonium",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "unit",
+    "child": "electric current density unit",
+    "score": 0.9927672147750854
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "electric current density unit",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "scattered_spatiotemporal_region",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "atom",
+    "child": "Ruthenium Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "organic group",
+    "child": "aldehyde group",
+    "score": 0.9949396848678589
+  },
+  {
+    "parent": "chemical quality",
+    "child": "aldehyde group",
+    "score": 0.7453983426094055
+  },
+  {
+    "parent": "element",
+    "child": "Technetium",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "series element",
+    "child": "Technetium",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "temporal_region",
+    "child": "Temperature Range",
+    "score": 0.8708171844482422
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "Temperature Range",
+    "score": 0.8951566815376282
+  },
+  {
+    "parent": "measured property",
+    "child": "Temperature Range",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "atom",
+    "child": "Sodium Atom",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "spatial_region",
+    "score": 0.9912885427474976
+  },
+  {
+    "parent": "continuant",
+    "child": "spatial_region",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "intensive property",
+    "child": "energy",
+    "score": 0.8914335370063782
+  },
+  {
+    "parent": "measured property",
+    "child": "energy",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "material category",
+    "child": "material",
+    "score": 0.4824291169643402
+  },
+  {
+    "parent": "chemical substance",
+    "child": "material",
+    "score": 0.9945730566978455
+  },
+  {
+    "parent": "compound",
+    "child": "material",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "basic",
+    "child": "material",
+    "score": 0.963230550289154
+  },
+  {
+    "parent": "chemical quality",
+    "child": "material",
+    "score": 0.9921841025352478
+  },
+  {
+    "parent": "chemical quality",
+    "child": "chemical substance",
+    "score": 0.9920002222061157
+  },
+  {
+    "parent": "compound",
+    "child": "chemical substance",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "material",
+    "child": "chemical substance",
+    "score": 0.9896718263626099
+  },
+  {
+    "parent": "Reagent",
+    "child": "chemical substance",
+    "score": 0.9929881691932678
+  },
+  {
+    "parent": "object",
+    "child": "chemical substance",
+    "score": 0.4895034730434418
+  },
+  {
+    "parent": "material category",
+    "child": "chemical substance",
+    "score": 0.5333974957466125
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "scattered_temporal_region",
+    "score": 0.991355836391449
+  },
+  {
+    "parent": "temporal_region",
+    "child": "scattered_temporal_region",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "scattered_temporal_region",
+    "score": 0.9924227595329285
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "scattered_temporal_region",
+    "score": 0.9835969805717468
+  },
+  {
+    "parent": "organic compound",
+    "child": "amide",
+    "score": 0.9876639246940613
+  },
+  {
+    "parent": "element",
+    "child": "actinide",
+    "score": 0.9905142784118652
+  },
+  {
+    "parent": "element",
+    "child": "Francium",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "series element",
+    "child": "Francium",
+    "score": 0.9945730566978455
+  },
+  {
+    "parent": "unit",
+    "child": "band gap unit",
+    "score": 0.9929881691932678
+  },
+  {
+    "parent": "chemical quality",
+    "child": "radioactivity activity",
+    "score": 0.977022647857666
+  },
+  {
+    "parent": "halogen",
+    "child": "Chlorine",
+    "score": 0.9948603510856628
+  },
+  {
+    "parent": "acyl halide",
+    "child": "Chlorine",
+    "score": 0.9882221817970276
+  },
+  {
+    "parent": "element",
+    "child": "Copper",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "series element",
+    "child": "Copper",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "process",
+    "child": "process_boundary",
+    "score": 0.9933589100837708
+  },
+  {
+    "parent": "processual_context",
+    "child": "process_boundary",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "processual_entity",
+    "child": "process_boundary",
+    "score": 0.9950562715530396
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "process_boundary",
+    "score": 0.9910838603973389
+  },
+  {
+    "parent": "intensive property",
+    "child": "heat capacity",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "capacitance",
+    "child": "heat capacity",
+    "score": 0.9556514620780945
+  },
+  {
+    "parent": "extensive property",
+    "child": "heat capacity",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "quality",
+    "child": "heat capacity",
+    "score": 0.9314625263214111
+  },
+  {
+    "parent": "measured property",
+    "child": "heat capacity",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "chemical quality",
+    "child": "heat capacity",
+    "score": 0.9930961728096008
+  },
+  {
+    "parent": "chemical quality",
+    "child": "hydrophobicity",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "entity",
+    "score": 0.9950177073478699
+  },
+  {
+    "parent": "information",
+    "child": "entity",
+    "score": 0.9878528118133545
+  },
+  {
+    "parent": "chemical substance",
+    "child": "entity",
+    "score": 0.9876639246940613
+  },
+  {
+    "parent": "extensive property",
+    "child": "entity",
+    "score": 0.575588047504425
+  },
+  {
+    "parent": "basic",
+    "child": "entity",
+    "score": 0.5048826336860657
+  },
+  {
+    "parent": "quality",
+    "child": "entity",
+    "score": 0.980728805065155
+  },
+  {
+    "parent": "element",
+    "child": "s-block element",
+    "score": 0.9623913168907166
+  },
+  {
+    "parent": "periodic block",
+    "child": "s-block element",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "isomer",
+    "score": 0.9763104915618896
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "isomer",
+    "score": 0.7402682304382324
+  },
+  {
+    "parent": "compound",
+    "child": "isomer",
+    "score": 0.995354413986206
+  },
+  {
+    "parent": "Reagent",
+    "child": "isomer",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "solvent",
+    "child": "isomer",
+    "score": 0.535948634147644
+  },
+  {
+    "parent": "chemical substance",
+    "child": "isomer",
+    "score": 0.9952816367149353
+  },
+  {
+    "parent": "organic compound",
+    "child": "isomer",
+    "score": 0.9952816367149353
+  },
+  {
+    "parent": "LIsomer",
+    "child": "isomer",
+    "score": 0.9885804057121277
+  },
+  {
+    "parent": "material",
+    "child": "isomer",
+    "score": 0.9813107252120972
+  },
+  {
+    "parent": "atom",
+    "child": "Bohrium Atom",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "atom",
+    "child": "Beryllium Atom",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "chemical substance",
+    "child": "MoleculeComponentCount",
+    "score": 0.523907482624054
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "MoleculeComponentCount",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "chemical quality",
+    "child": "MoleculeComponentCount",
+    "score": 0.9877586960792542
+  },
+  {
+    "parent": "measured property",
+    "child": "power",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "processual_context",
+    "child": "processual_entity",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "entity",
+    "child": "processual_entity",
+    "score": 0.6955448985099792
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "processual_entity",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "process",
+    "child": "processual_entity",
+    "score": 0.992061972618103
+  },
+  {
+    "parent": "element",
+    "child": "Indium",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "series element",
+    "child": "Indium",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "element",
+    "child": "Dubnium",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "series element",
+    "child": "Dubnium",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "element",
+    "child": "Manganese",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "independent_continuant",
+    "child": "continuant",
+    "score": 0.8778960704803467
+  },
+  {
+    "parent": "material",
+    "child": "continuant",
+    "score": 0.808672308921814
+  },
+  {
+    "parent": "Reagent",
+    "child": "continuant",
+    "score": 0.8469578623771667
+  },
+  {
+    "parent": "object",
+    "child": "continuant",
+    "score": 0.9927672147750854
+  },
+  {
+    "parent": "spatial_region",
+    "child": "area",
+    "score": 0.9891815781593323
+  },
+  {
+    "parent": "continuant",
+    "child": "area",
+    "score": 0.977022647857666
+  },
+  {
+    "parent": "measured property",
+    "child": "area",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "element",
+    "child": "Roentgenium",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "series element",
+    "child": "Roentgenium",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "volume unit",
+    "child": "specific volume unit",
+    "score": 0.9908744096755981
+  },
+  {
+    "parent": "density unit",
+    "child": "specific volume unit",
+    "score": 0.8692712783813477
+  },
+  {
+    "parent": "unit",
+    "child": "specific volume unit",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "specific volume unit",
+    "score": 0.9950562715530396
+  },
+  {
+    "parent": "conduction unit",
+    "child": "thermal conduction unit",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "unit",
+    "child": "thermal conduction unit",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "thermal conduction unit",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "chemical phase",
+    "child": "common chemical phase",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "common chemical phase",
+    "score": 0.9832144975662231
+  },
+  {
+    "parent": "chemical quality",
+    "child": "common chemical phase",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "unit",
+    "child": "wavenumber unit",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "wavenumber unit",
+    "score": 0.994820237159729
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl halide group",
+    "score": 0.8868131041526794
+  },
+  {
+    "parent": "organic group",
+    "child": "acyl halide group",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "spatiotemporal_region",
+    "score": 0.9900636076927185
+  },
+  {
+    "parent": "continuant",
+    "child": "spatiotemporal_region",
+    "score": 0.4634442627429962
+  },
+  {
+    "parent": "energy",
+    "child": "molar energy",
+    "score": 0.9918121099472046
+  },
+  {
+    "parent": "measured property",
+    "child": "molar energy",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "density",
+    "child": "magnetic flux density",
+    "score": 0.8816148638725281
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "magnetic flux density",
+    "score": 0.8529354929924011
+  },
+  {
+    "parent": "electric charge unit",
+    "child": "electric charge density unit",
+    "score": 0.49047964811325073
+  },
+  {
+    "parent": "unit",
+    "child": "electric charge density unit",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "unit",
+    "child": "electric charge unit",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "atom",
+    "child": "Dysprosium Atom",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "scaled unit",
+    "score": 0.9929881691932678
+  },
+  {
+    "parent": "object",
+    "child": "scaled unit",
+    "score": 0.9244152307510376
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "carbon nanofoam",
+    "score": 0.9916195869445801
+  },
+  {
+    "parent": "chemical substance",
+    "child": "fermionic condensate",
+    "score": 0.7429815530776978
+  },
+  {
+    "parent": "intensive property",
+    "child": "ultimate tensile strength",
+    "score": 0.9924227595329285
+  },
+  {
+    "parent": "extensive property",
+    "child": "ultimate tensile strength",
+    "score": 0.50048828125
+  },
+  {
+    "parent": "measured property",
+    "child": "ultimate tensile strength",
+    "score": 0.9921841025352478
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "staggered conformation",
+    "score": 0.9946568012237549
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "identifier",
+    "score": 0.7749242186546326
+  },
+  {
+    "parent": "element",
+    "child": "Bismuth",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "series element",
+    "child": "Bismuth",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "measured property",
+    "child": "MolecularQuality",
+    "score": 0.9952448010444641
+  },
+  {
+    "parent": "atom",
+    "child": "Einsteinium Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "electric field strength",
+    "score": 0.4602889120578766
+  },
+  {
+    "parent": "intensive property",
+    "child": "electric field strength",
+    "score": 0.9883127808570862
+  },
+  {
+    "parent": "measured property",
+    "child": "electric field strength",
+    "score": 0.9918753504753113
+  },
+  {
+    "parent": "atom",
+    "child": "Osmium Atom",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "atom",
+    "child": "Zirconium Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "radiation unit",
+    "child": "absorbed dose unit",
+    "score": 0.9944451451301575
+  },
+  {
+    "parent": "exposure unit",
+    "child": "absorbed dose unit",
+    "score": 0.9813107252120972
+  },
+  {
+    "parent": "unit",
+    "child": "absorbed dose unit",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "absorbed dose unit",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "scaled unit",
+    "child": "mega scaled unit",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "mega scaled unit",
+    "score": 0.9879462122917175
+  },
+  {
+    "parent": "chemical phase",
+    "child": "quark gluon plasma phase",
+    "score": 0.9928786158561707
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "quark gluon plasma phase",
+    "score": 0.9916841983795166
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "quark gluon plasma phase",
+    "score": 0.9887554049491882
+  },
+  {
+    "parent": "element",
+    "child": "Fermium",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "organic group",
+    "child": "sulfonyl halide group",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "chemical substance",
+    "child": "material category",
+    "score": 0.954308032989502
+  },
+  {
+    "parent": "chemical quality",
+    "child": "material category",
+    "score": 0.9859364032745361
+  },
+  {
+    "parent": "unit",
+    "child": "pressure unit",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "isomer",
+    "child": "LIsomer",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "LIsomer",
+    "score": 0.9928786158561707
+  },
+  {
+    "parent": "compound",
+    "child": "LIsomer",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "Reagent",
+    "child": "LIsomer",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "organic compound",
+    "child": "LIsomer",
+    "score": 0.9948603510856628
+  },
+  {
+    "parent": "measured property",
+    "child": "electric resistance",
+    "score": 0.9926542043685913
+  },
+  {
+    "parent": "atom",
+    "child": "Thorium Atom",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "entropy",
+    "child": "specific entropy",
+    "score": 0.9888418912887573
+  },
+  {
+    "parent": "measured property",
+    "child": "specific entropy",
+    "score": 0.9929881691932678
+  },
+  {
+    "parent": "MoleculeComponentCount",
+    "child": "defined stereo atom count",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "atom property",
+    "child": "defined stereo atom count",
+    "score": 0.9840936064720154
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "defined stereo atom count",
+    "score": 0.9787126779556274
+  },
+  {
+    "parent": "scaled unit",
+    "child": "micro scaled unit",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "unit",
+    "child": "micro scaled unit",
+    "score": 0.5763035416603088
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "micro scaled unit",
+    "score": 0.994820237159729
+  },
+  {
+    "parent": "measured property",
+    "child": "length",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "extensive property",
+    "child": "length",
+    "score": 0.9761291742324829
+  },
+  {
+    "parent": "acyl fluoride",
+    "child": "acyl fluoride group",
+    "score": 0.4851118326187134
+  },
+  {
+    "parent": "acyl halide group",
+    "child": "acyl fluoride group",
+    "score": 0.9943581223487854
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl fluoride group",
+    "score": 0.9918121099472046
+  },
+  {
+    "parent": "organic group",
+    "child": "acyl fluoride group",
+    "score": 0.9946568012237549
+  },
+  {
+    "parent": "element",
+    "child": "Rhenium",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "identifier",
+    "child": "inchi",
+    "score": 0.9950946569442749
+  },
+  {
+    "parent": "entity",
+    "child": "inchi",
+    "score": 0.47097986936569214
+  },
+  {
+    "parent": "information",
+    "child": "inchi",
+    "score": 0.9862577319145203
+  },
+  {
+    "parent": "chemical quality",
+    "child": "enthalpy",
+    "score": 0.9930423498153687
+  },
+  {
+    "parent": "intensive property",
+    "child": "enthalpy",
+    "score": 0.9898303151130676
+  },
+  {
+    "parent": "atom",
+    "child": "Plutonium Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "extensive property",
+    "child": "measured property",
+    "score": 0.9857181310653687
+  },
+  {
+    "parent": "information",
+    "child": "measured property",
+    "score": 0.620276689529419
+  },
+  {
+    "parent": "quality",
+    "child": "measured property",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "measured property",
+    "score": 0.8164063692092896
+  },
+  {
+    "parent": "entity",
+    "child": "measured property",
+    "score": 0.9717789888381958
+  },
+  {
+    "parent": "area",
+    "child": "polar surface area",
+    "score": 0.9848109483718872
+  },
+  {
+    "parent": "element",
+    "child": "periodic table element",
+    "score": 0.945600688457489
+  },
+  {
+    "parent": "series element",
+    "child": "periodic table element",
+    "score": 0.9818752408027649
+  },
+  {
+    "parent": "Carbon",
+    "child": "amorphous carbon",
+    "score": 0.9932025074958801
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "amorphous carbon",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "Lattice Parameter A",
+    "child": "Lattice Parameter",
+    "score": 0.859663724899292
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "Lattice Parameter",
+    "score": 0.9431384205818176
+  },
+  {
+    "parent": "polymers",
+    "child": "plastics",
+    "score": 0.9949396848678589
+  },
+  {
+    "parent": "material",
+    "child": "plastics",
+    "score": 0.6625781655311584
+  },
+  {
+    "parent": "chemical substance",
+    "child": "plastics",
+    "score": 0.9906600117683411
+  },
+  {
+    "parent": "chemical quality",
+    "child": "plastics",
+    "score": 0.9757624268531799
+  },
+  {
+    "parent": "material category",
+    "child": "plastics",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "organic compound",
+    "child": "plastics",
+    "score": 0.9927672147750854
+  },
+  {
+    "parent": "compound",
+    "child": "plastics",
+    "score": 0.4644157290458679
+  },
+  {
+    "parent": "Carbon",
+    "child": "diamond",
+    "score": 0.7412996292114258
+  },
+  {
+    "parent": "object",
+    "child": "diamond",
+    "score": 0.9866748452186584
+  },
+  {
+    "parent": "atom",
+    "child": "Gadolinium Atom",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "amine group",
+    "child": "primary amine group",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "amine",
+    "child": "primary amine group",
+    "score": 0.6004226207733154
+  },
+  {
+    "parent": "organic group",
+    "child": "primary amine group",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "aldehyde group",
+    "child": "primary amine group",
+    "score": 0.5631377696990967
+  },
+  {
+    "parent": "quality",
+    "child": "material quality",
+    "score": 0.9925969839096069
+  },
+  {
+    "parent": "chemical quality",
+    "child": "material quality",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "measured property",
+    "child": "material quality",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "intensive property",
+    "child": "magnetic field strength",
+    "score": 0.9900636076927185
+  },
+  {
+    "parent": "measured property",
+    "child": "magnetic field strength",
+    "score": 0.9919379353523254
+  },
+  {
+    "parent": "measured property",
+    "child": "potential difference",
+    "score": 0.9932550191879272
+  },
+  {
+    "parent": "angle",
+    "child": "solid angle",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "solid angle",
+    "score": 0.9268352389335632
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "Hardness Range Upper Bound",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "Hardness",
+    "child": "Hardness Range Upper Bound",
+    "score": 0.4887714087963104
+  },
+  {
+    "parent": "measured property",
+    "child": "Hardness Range Upper Bound",
+    "score": 0.9890975952148438
+  },
+  {
+    "parent": "chemical quality",
+    "child": "Hardness Range Upper Bound",
+    "score": 0.9759464263916016
+  },
+  {
+    "parent": "Temperature Range",
+    "child": "Temperature Range Upper Bound",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "measured property",
+    "child": "Temperature Range Upper Bound",
+    "score": 0.9912885427474976
+  },
+  {
+    "parent": "temporal_region",
+    "child": "Temperature Range Upper Bound",
+    "score": 0.5117166042327881
+  },
+  {
+    "parent": "electric charge",
+    "child": "positive charge",
+    "score": 0.9948603510856628
+  },
+  {
+    "parent": "polarity",
+    "child": "positive charge",
+    "score": 0.7077078223228455
+  },
+  {
+    "parent": "mass",
+    "child": "molecular mass",
+    "score": 0.9453993439674377
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "molecular mass",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "element",
+    "child": "Unununium",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "chemical reaction pathway",
+    "score": 0.9904406070709229
+  },
+  {
+    "parent": "chemical quality",
+    "child": "chemical reaction pathway",
+    "score": 0.9884026646614075
+  },
+  {
+    "parent": "process",
+    "child": "chemical reaction pathway",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "processual_entity",
+    "child": "chemical reaction pathway",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "processual_context",
+    "child": "chemical reaction pathway",
+    "score": 0.9890130758285522
+  },
+  {
+    "parent": "atom",
+    "child": "Promethium Atom",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "chemical quality",
+    "child": "permeability",
+    "score": 0.9921841025352478
+  },
+  {
+    "parent": "extensive property",
+    "child": "permeability",
+    "score": 0.974821150302887
+  },
+  {
+    "parent": "measured property",
+    "child": "permeability",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "unit",
+    "child": "luminance unit",
+    "score": 0.9932550191879272
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "luminance unit",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "luminance unit",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "measured property",
+    "child": "luminance unit",
+    "score": 0.9458011984825134
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "luminance unit",
+    "score": 0.966156005859375
+  },
+  {
+    "parent": "unit",
+    "child": "entropy unit",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "radiation",
+    "score": 0.9909447431564331
+  },
+  {
+    "parent": "displacement reaction",
+    "child": "DoubleDisplacementReaction",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "chemical quality",
+    "child": "quality",
+    "score": 0.9914886951446533
+  },
+  {
+    "parent": "continuant",
+    "child": "quality",
+    "score": 0.47682327032089233
+  },
+  {
+    "parent": "measured property",
+    "child": "quality",
+    "score": 0.9957684278488159
+  },
+  {
+    "parent": "Concentration",
+    "child": "density",
+    "score": 0.9923638105392456
+  },
+  {
+    "parent": "measured property",
+    "child": "density",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "extensive property",
+    "child": "density",
+    "score": 0.9814534187316895
+  },
+  {
+    "parent": "formal charge",
+    "child": "total formal charge",
+    "score": 0.9934611320495605
+  },
+  {
+    "parent": "electric charge",
+    "child": "total formal charge",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "shear modulus",
+    "score": 0.9927672147750854
+  },
+  {
+    "parent": "measured property",
+    "child": "shear modulus",
+    "score": 0.9933071732521057
+  },
+  {
+    "parent": "intensive property",
+    "child": "shear modulus",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "compound",
+    "child": "shear modulus",
+    "score": 0.8250265121459961
+  },
+  {
+    "parent": "material",
+    "child": "poor metal",
+    "score": 0.775604784488678
+  },
+  {
+    "parent": "element",
+    "child": "poor metal",
+    "score": 0.9702399373054504
+  },
+  {
+    "parent": "chemical substance",
+    "child": "poor metal",
+    "score": 0.7229183912277222
+  },
+  {
+    "parent": "material category",
+    "child": "poor metal",
+    "score": 0.9671630263328552
+  },
+  {
+    "parent": "series element",
+    "child": "poor metal",
+    "score": 0.9933589100837708
+  },
+  {
+    "parent": "atom",
+    "child": "Gold Atom",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "isomer",
+    "child": "cis/trans isomer",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "cis/trans isomer",
+    "score": 0.9842154383659363
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "cis/trans isomer",
+    "score": 0.9924227595329285
+  },
+  {
+    "parent": "element",
+    "child": "Potassium",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "compound",
+    "child": "bond",
+    "score": 0.9902915358543396
+  },
+  {
+    "parent": "organic compound",
+    "child": "bond",
+    "score": 0.976669192314148
+  },
+  {
+    "parent": "chemical substance",
+    "child": "bond",
+    "score": 0.9900636076927185
+  },
+  {
+    "parent": "Reagent",
+    "child": "bond",
+    "score": 0.9843363761901855
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "bond",
+    "score": 0.6083614230155945
+  },
+  {
+    "parent": "measured property",
+    "child": "capacitance",
+    "score": 0.9932550191879272
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "volume",
+    "score": 0.6322757005691528
+  },
+  {
+    "parent": "measured property",
+    "child": "volume",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "spatial_region",
+    "child": "volume",
+    "score": 0.8187368512153625
+  },
+  {
+    "parent": "entity",
+    "child": "information",
+    "score": 0.9683812260627747
+  },
+  {
+    "parent": "quality",
+    "child": "information",
+    "score": 0.4659949541091919
+  },
+  {
+    "parent": "measured property",
+    "child": "information",
+    "score": 0.9949788451194763
+  },
+  {
+    "parent": "atom",
+    "child": "Chlorine Atom",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "unit",
+    "child": "concentration unit",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "material",
+    "child": "basic",
+    "score": 0.9569571614265442
+  },
+  {
+    "parent": "quality",
+    "child": "basic",
+    "score": 0.7339288592338562
+  },
+  {
+    "parent": "compound",
+    "child": "basic",
+    "score": 0.9890130758285522
+  },
+  {
+    "parent": "material quality",
+    "child": "basic",
+    "score": 0.4926762878894806
+  },
+  {
+    "parent": "Reagent",
+    "child": "basic",
+    "score": 0.9899086952209473
+  },
+  {
+    "parent": "chemical substance",
+    "child": "basic",
+    "score": 0.9950562715530396
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "trigonal planar molecular geometry",
+    "score": 0.9930423498153687
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "chemical reaction",
+    "score": 0.9082930684089661
+  },
+  {
+    "parent": "chemical quality",
+    "child": "chemical reaction",
+    "score": 0.9912208914756775
+  },
+  {
+    "parent": "process",
+    "child": "chemical reaction",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "atomic number",
+    "child": "non hydrogen atom count",
+    "score": 0.5760650634765625
+  },
+  {
+    "parent": "atom property",
+    "child": "non hydrogen atom count",
+    "score": 0.9312127232551575
+  },
+  {
+    "parent": "MoleculeComponentCount",
+    "child": "non hydrogen atom count",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "non hydrogen atom count",
+    "score": 0.9763104915618896
+  },
+  {
+    "parent": "acidic",
+    "child": "acidity",
+    "score": 0.9881309270858765
+  },
+  {
+    "parent": "pH",
+    "child": "acidity",
+    "score": 0.961243748664856
+  },
+  {
+    "parent": "chemical quality",
+    "child": "acidity",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "Concentration",
+    "child": "acidity",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "chemical quality",
+    "child": "chemical conformation",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "chemical conformation",
+    "score": 0.9889278411865234
+  },
+  {
+    "parent": "atom",
+    "child": "Silver Atom",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "solvent",
+    "child": "alcohol",
+    "score": 0.9929881691932678
+  },
+  {
+    "parent": "chemical substance",
+    "child": "alcohol",
+    "score": 0.9928786158561707
+  },
+  {
+    "parent": "compound",
+    "child": "alcohol",
+    "score": 0.9890975952148438
+  },
+  {
+    "parent": "chemical quality",
+    "child": "alcohol",
+    "score": 0.9224823713302612
+  },
+  {
+    "parent": "organic compound",
+    "child": "alcohol",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "Reagent",
+    "child": "alcohol",
+    "score": 0.9906600117683411
+  },
+  {
+    "parent": "nonpolar solvent",
+    "child": "alcohol",
+    "score": 0.9473810195922852
+  },
+  {
+    "parent": "polar solvent",
+    "child": "alcohol",
+    "score": 0.5204963088035583
+  },
+  {
+    "parent": "element",
+    "child": "Bohrium",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "solvent",
+    "child": "polar solvent",
+    "score": 0.9928231239318848
+  },
+  {
+    "parent": "nonpolar solvent",
+    "child": "polar solvent",
+    "score": 0.8056321740150452
+  },
+  {
+    "parent": "compound",
+    "child": "polar solvent",
+    "score": 0.8848377466201782
+  },
+  {
+    "parent": "chemical substance",
+    "child": "polar solvent",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "organic compound",
+    "child": "polar solvent",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "chemical agent",
+    "child": "polar solvent",
+    "score": 0.5832033753395081
+  },
+  {
+    "parent": "hydrophilic",
+    "child": "polar solvent",
+    "score": 0.45423004031181335
+  },
+  {
+    "parent": "chemical quality",
+    "child": "polar solvent",
+    "score": 0.9582260847091675
+  },
+  {
+    "parent": "chemical quality",
+    "child": "amount of substance",
+    "score": 0.9818752408027649
+  },
+  {
+    "parent": "measured property",
+    "child": "amount of substance",
+    "score": 0.9914886951446533
+  },
+  {
+    "parent": "intensive property",
+    "child": "luminous intensity",
+    "score": 0.9925393462181091
+  },
+  {
+    "parent": "electromagnetic radation",
+    "child": "luminous intensity",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "measured property",
+    "child": "luminous intensity",
+    "score": 0.992061972618103
+  },
+  {
+    "parent": "extensive property",
+    "child": "luminous intensity",
+    "score": 0.7348812818527222
+  },
+  {
+    "parent": "measured property",
+    "child": "inductance",
+    "score": 0.9914224743843079
+  },
+  {
+    "parent": "conduction unit",
+    "child": "electric conduction unit",
+    "score": 0.9917484521865845
+  },
+  {
+    "parent": "unit",
+    "child": "electric conduction unit",
+    "score": 0.9935117363929749
+  },
+  {
+    "parent": "element",
+    "child": "Platinum",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "series element",
+    "child": "Platinum",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "precipitation reaction",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "process",
+    "child": "precipitation reaction",
+    "score": 0.9658995866775513
+  },
+  {
+    "parent": "atom property",
+    "child": "atomic number",
+    "score": 0.8688268065452576
+  },
+  {
+    "parent": "MoleculeComponentCount",
+    "child": "atomic number",
+    "score": 0.9866748452186584
+  },
+  {
+    "parent": "mixture",
+    "child": "heterogeneous mixture",
+    "score": 0.9932550191879272
+  },
+  {
+    "parent": "chemical substance",
+    "child": "heterogeneous mixture",
+    "score": 0.9887554049491882
+  },
+  {
+    "parent": "chemical quality",
+    "child": "heterogeneous mixture",
+    "score": 0.8936811685562134
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "heterogeneous mixture",
+    "score": 0.5170832276344299
+  },
+  {
+    "parent": "density unit",
+    "child": "linear density unit",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "unit",
+    "child": "linear density unit",
+    "score": 0.9927109479904175
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "linear density unit",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "measured property",
+    "child": "angular velocity",
+    "score": 0.9928231239318848
+  },
+  {
+    "parent": "entity",
+    "child": "angular velocity",
+    "score": 0.8272706270217896
+  },
+  {
+    "parent": "element",
+    "child": "Americium",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "actinide",
+    "child": "Americium",
+    "score": 0.5229331254959106
+  },
+  {
+    "parent": "series element",
+    "child": "Americium",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "entropy unit",
+    "child": "specific entropy unit",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "unit",
+    "child": "specific entropy unit",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "element",
+    "child": "Samarium",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "series element",
+    "child": "Samarium",
+    "score": 0.9945730566978455
+  },
+  {
+    "parent": "absorbed dose rate",
+    "child": "absorbed dose",
+    "score": 0.4834045469760895
+  },
+  {
+    "parent": "radiation",
+    "child": "absorbed dose",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "measured property",
+    "child": "absorbed dose",
+    "score": 0.9840936064720154
+  },
+  {
+    "parent": "element",
+    "child": "Protactinium",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "series element",
+    "child": "Protactinium",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "chemical substance",
+    "child": "Ion",
+    "score": 0.9896718263626099
+  },
+  {
+    "parent": "Reagent",
+    "child": "Ion",
+    "score": 0.9717789888381958
+  },
+  {
+    "parent": "element",
+    "child": "Mendelevium",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "series element",
+    "child": "Mendelevium",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "unit",
+    "child": "conduction unit",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "unit",
+    "child": "radiation unit",
+    "score": 0.9915544390678406
+  },
+  {
+    "parent": "exposure unit",
+    "child": "radiation unit",
+    "score": 0.671470582485199
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "radiation unit",
+    "score": 0.9934611320495605
+  },
+  {
+    "parent": "molar entropy",
+    "child": "entropy",
+    "score": 0.7650671601295471
+  },
+  {
+    "parent": "measured property",
+    "child": "entropy",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "entropy",
+    "score": 0.45604634284973145
+  },
+  {
+    "parent": "chemical quality",
+    "child": "entropy",
+    "score": 0.9925393462181091
+  },
+  {
+    "parent": "entity",
+    "child": "entropy",
+    "score": 0.9539660811424255
+  },
+  {
+    "parent": "bond",
+    "child": "disulfide bond",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "addition reaction",
+    "child": "non polar addition reaction",
+    "score": 0.993561863899231
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "non polar addition reaction",
+    "score": 0.9926542043685913
+  },
+  {
+    "parent": "organic reaction",
+    "child": "non polar addition reaction",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "halogen",
+    "child": "Iodine",
+    "score": 0.9949788451194763
+  },
+  {
+    "parent": "acyl halide",
+    "child": "Iodine",
+    "score": 0.9629528522491455
+  },
+  {
+    "parent": "Ion",
+    "child": "Iodine",
+    "score": 0.4593186378479004
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "tetrahedral molecular geometry",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "chemical phase",
+    "child": "liquid phase",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "liquid phase",
+    "score": 0.9931495785713196
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "liquid phase",
+    "score": 0.9918753504753113
+  },
+  {
+    "parent": "unit",
+    "child": "illuminance unit",
+    "score": 0.9930423498153687
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "illuminance unit",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "van der Waal's interaction",
+    "score": 0.9941800832748413
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "van der Waal's interaction",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "organic compound",
+    "child": "alkyl",
+    "score": 0.9849274158477783
+  },
+  {
+    "parent": "organic group",
+    "child": "alkyl",
+    "score": 0.5104964971542358
+  },
+  {
+    "parent": "hydrocarbon",
+    "child": "alkyl",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "extensive property",
+    "child": "space group property",
+    "score": 0.8764230012893677
+  },
+  {
+    "parent": "measured property",
+    "child": "space group property",
+    "score": 0.9945730566978455
+  },
+  {
+    "parent": "entity",
+    "child": "space group property",
+    "score": 0.730289876461029
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "space group property",
+    "score": 0.7037531733512878
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "space group property",
+    "score": 0.9934101700782776
+  },
+  {
+    "parent": "unit",
+    "child": "volume unit",
+    "score": 0.994401752948761
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "volume unit",
+    "score": 0.9949001669883728
+  },
+  {
+    "parent": "atom",
+    "child": "Dubnium Atom",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "measured property",
+    "child": "viscosity",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "chemical quality",
+    "child": "viscosity",
+    "score": 0.9934611320495605
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "viscosity",
+    "score": 0.5085440874099731
+  },
+  {
+    "parent": "intensive property",
+    "child": "viscosity",
+    "score": 0.9925969839096069
+  },
+  {
+    "parent": "mass",
+    "child": "monoisotopic weight",
+    "score": 0.9877586960792542
+  },
+  {
+    "parent": "molecular mass",
+    "child": "monoisotopic weight",
+    "score": 0.46976351737976074
+  },
+  {
+    "parent": "unit",
+    "child": "DerivedUnit",
+    "score": 0.9950177073478699
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "catalyzed reaction",
+    "score": 0.9943140745162964
+  },
+  {
+    "parent": "organic reaction",
+    "child": "catalyzed reaction",
+    "score": 0.8469578623771667
+  },
+  {
+    "parent": "process",
+    "child": "catalyzed reaction",
+    "score": 0.9815951585769653
+  },
+  {
+    "parent": "radiation",
+    "child": "electromagnetic radation",
+    "score": 0.8570517301559448
+  },
+  {
+    "parent": "halogen",
+    "child": "Thallium",
+    "score": 0.9489172697067261
+  },
+  {
+    "parent": "element",
+    "child": "Thallium",
+    "score": 0.9938070178031921
+  },
+  {
+    "parent": "atom",
+    "child": "Titanium Atom",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "group element",
+    "child": "group 3 element",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "series element",
+    "child": "group 3 element",
+    "score": 0.9909447431564331
+  },
+  {
+    "parent": "electric charge",
+    "child": "formal charge",
+    "score": 0.9932025074958801
+  },
+  {
+    "parent": "positive charge",
+    "child": "formal charge",
+    "score": 0.5085440874099731
+  },
+  {
+    "parent": "heat capacity",
+    "child": "specific heat",
+    "score": 0.9635062217712402
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific heat",
+    "score": 0.9948603510856628
+  },
+  {
+    "parent": "atom",
+    "child": "Lanthanum Atom",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "eclipsed conformation",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "aldehyde group",
+    "child": "hydroxyl group",
+    "score": 0.48999157547950745
+  },
+  {
+    "parent": "organic group",
+    "child": "hydroxyl group",
+    "score": 0.9946568012237549
+  },
+  {
+    "parent": "element",
+    "child": "Thulium",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "Concentration",
+    "child": "molality",
+    "score": 0.9945730566978455
+  },
+  {
+    "parent": "chemical quality",
+    "child": "molality",
+    "score": 0.9932025074958801
+  },
+  {
+    "parent": "heterogeneous mixture",
+    "child": "mixture",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "solvent",
+    "child": "mixture",
+    "score": 0.6011253595352173
+  },
+  {
+    "parent": "compound",
+    "child": "mixture",
+    "score": 0.9876639246940613
+  },
+  {
+    "parent": "material",
+    "child": "mixture",
+    "score": 0.9447912573814392
+  },
+  {
+    "parent": "chemical substance",
+    "child": "mixture",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "organic compound",
+    "child": "mixture",
+    "score": 0.50146484375
+  },
+  {
+    "parent": "Reagent",
+    "child": "mixture",
+    "score": 0.986151397228241
+  },
+  {
+    "parent": "chemical quality",
+    "child": "mixture",
+    "score": 0.9874721169471741
+  },
+  {
+    "parent": "object",
+    "child": "mixture",
+    "score": 0.9926542043685913
+  },
+  {
+    "parent": "halogen",
+    "child": "Astatine",
+    "score": 0.9732407331466675
+  },
+  {
+    "parent": "unit",
+    "child": "density unit",
+    "score": 0.9934101700782776
+  },
+  {
+    "parent": "electric charge",
+    "child": "negative charge",
+    "score": 0.9946150183677673
+  },
+  {
+    "parent": "polarity",
+    "child": "negative charge",
+    "score": 0.9785493016242981
+  },
+  {
+    "parent": "chemical agent",
+    "child": "Reagent",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "compound",
+    "child": "Reagent",
+    "score": 0.9940428137779236
+  },
+  {
+    "parent": "chemical substance",
+    "child": "Reagent",
+    "score": 0.9946568012237549
+  },
+  {
+    "parent": "organic compound",
+    "child": "Reagent",
+    "score": 0.9933589100837708
+  },
+  {
+    "parent": "material",
+    "child": "Reagent",
+    "score": 0.9918753504753113
+  },
+  {
+    "parent": "chemical quality",
+    "child": "Reagent",
+    "score": 0.9416541457176208
+  },
+  {
+    "parent": "measured property",
+    "child": "extensive property",
+    "score": 0.995354413986206
+  },
+  {
+    "parent": "entity",
+    "child": "extensive property",
+    "score": 0.48291680216789246
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "extensive property",
+    "score": 0.9944880604743958
+  },
+  {
+    "parent": "quality",
+    "child": "extensive property",
+    "score": 0.9891815781593323
+  },
+  {
+    "parent": "power",
+    "child": "unit raised to power",
+    "score": 0.9910145401954651
+  },
+  {
+    "parent": "measured property",
+    "child": "unit raised to power",
+    "score": 0.8354835510253906
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "unit raised to power",
+    "score": 0.7769615650177002
+  },
+  {
+    "parent": "unit",
+    "child": "capacitance unit",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "atom",
+    "child": "Iodine Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "information",
+    "child": "name",
+    "score": 0.9648551344871521
+  },
+  {
+    "parent": "angle unit",
+    "child": "solid angle unit",
+    "score": 0.9939024448394775
+  },
+  {
+    "parent": "unit",
+    "child": "solid angle unit",
+    "score": 0.9669140577316284
+  },
+  {
+    "parent": "quality",
+    "child": "chemical quality",
+    "score": 0.992061972618103
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "chemical quality",
+    "score": 0.6996649503707886
+  },
+  {
+    "parent": "unit",
+    "child": "energy unit",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "element",
+    "child": "Argon",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "series element",
+    "child": "Argon",
+    "score": 0.9946980476379395
+  },
+  {
+    "parent": "halogen",
+    "child": "Argon",
+    "score": 0.5794004201889038
+  },
+  {
+    "parent": "organic compound",
+    "child": "ester",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "Reagent",
+    "child": "ester",
+    "score": 0.7592254281044006
+  },
+  {
+    "parent": "series element",
+    "child": "ester",
+    "score": 0.9856076240539551
+  },
+  {
+    "parent": "chemical substance",
+    "child": "solvent",
+    "score": 0.9950177073478699
+  },
+  {
+    "parent": "compound",
+    "child": "solvent",
+    "score": 0.9946980476379395
+  },
+  {
+    "parent": "mixture",
+    "child": "solvent",
+    "score": 0.5078119039535522
+  },
+  {
+    "parent": "pure substance",
+    "child": "solvent",
+    "score": 0.9329437017440796
+  },
+  {
+    "parent": "chemical agent",
+    "child": "solvent",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "organic compound",
+    "child": "solvent",
+    "score": 0.9951702952384949
+  },
+  {
+    "parent": "chemical quality",
+    "child": "solvent",
+    "score": 0.9904406070709229
+  },
+  {
+    "parent": "material",
+    "child": "solvent",
+    "score": 0.9553191661834717
+  },
+  {
+    "parent": "heterogeneous mixture",
+    "child": "solvent",
+    "score": 0.9833430051803589
+  },
+  {
+    "parent": "Reagent",
+    "child": "solvent",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "unit",
+    "child": "moment of force unit",
+    "score": 0.9934101700782776
+  },
+  {
+    "parent": "measured property",
+    "child": "moment of force unit",
+    "score": 0.9851576089859009
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "moment of force unit",
+    "score": 0.9946150183677673
+  },
+  {
+    "parent": "unit",
+    "child": "angular acceleration unit",
+    "score": 0.9942697286605835
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "angular acceleration unit",
+    "score": 0.994820237159729
+  },
+  {
+    "parent": "measured property",
+    "child": "angle",
+    "score": 0.993854820728302
+  },
+  {
+    "parent": "continuant",
+    "child": "independent_continuant",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "independent_continuant",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "measured property",
+    "child": "independent_continuant",
+    "score": 0.9958337545394897
+  },
+  {
+    "parent": "conduction",
+    "child": "thermal conduction",
+    "score": 0.9905142784118652
+  },
+  {
+    "parent": "measured property",
+    "child": "thermal conduction",
+    "score": 0.9923043847084045
+  },
+  {
+    "parent": "acidity",
+    "child": "acidic",
+    "score": 0.9927109479904175
+  },
+  {
+    "parent": "chemical substance",
+    "child": "acidic",
+    "score": 0.9901401400566101
+  },
+  {
+    "parent": "chemical quality",
+    "child": "acidic",
+    "score": 0.9928231239318848
+  },
+  {
+    "parent": "organic compound",
+    "child": "acidic",
+    "score": 0.7581526637077332
+  },
+  {
+    "parent": "Concentration",
+    "child": "acidic",
+    "score": 0.7409248948097229
+  },
+  {
+    "parent": "Concentration",
+    "child": "amount of substance concentration",
+    "score": 0.9906600117683411
+  },
+  {
+    "parent": "chemical quality",
+    "child": "amount of substance concentration",
+    "score": 0.9921233057975769
+  },
+  {
+    "parent": "measured property",
+    "child": "amount of substance concentration",
+    "score": 0.9908034801483154
+  },
+  {
+    "parent": "chemical substance",
+    "child": "pure substance",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "compound",
+    "child": "pure substance",
+    "score": 0.6852126717567444
+  },
+  {
+    "parent": "organic compound",
+    "child": "pure substance",
+    "score": 0.8169911503791809
+  },
+  {
+    "parent": "object",
+    "child": "pure substance",
+    "score": 0.9815951585769653
+  },
+  {
+    "parent": "Reagent",
+    "child": "pure substance",
+    "score": 0.9902915358543396
+  },
+  {
+    "parent": "atom",
+    "child": "Meitnerium Atom",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "concentration unit",
+    "child": "pH unit",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "unit",
+    "child": "pH unit",
+    "score": 0.9921233057975769
+  },
+  {
+    "parent": "Concentration",
+    "child": "pH unit",
+    "score": 0.9053223133087158
+  },
+  {
+    "parent": "chemical quality",
+    "child": "pH unit",
+    "score": 0.974821150302887
+  },
+  {
+    "parent": "heterocyclic",
+    "child": "hetero cyclic ring",
+    "score": 0.9936610460281372
+  },
+  {
+    "parent": "cyclic",
+    "child": "hetero cyclic ring",
+    "score": 0.9908744096755981
+  },
+  {
+    "parent": "ring",
+    "child": "hetero cyclic ring",
+    "score": 0.9928786158561707
+  },
+  {
+    "parent": "measured property",
+    "child": "atom property",
+    "score": 0.9956005811691284
+  },
+  {
+    "parent": "extensive property",
+    "child": "atom property",
+    "score": 0.971563994884491
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "atom property",
+    "score": 0.9925393462181091
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl fluoride",
+    "score": 0.9945307374000549
+  },
+  {
+    "parent": "organic compound",
+    "child": "acyl fluoride",
+    "score": 0.5065914392471313
+  },
+  {
+    "parent": "halogen",
+    "child": "acyl fluoride",
+    "score": 0.982557475566864
+  },
+  {
+    "parent": "scaled unit",
+    "child": "zetta scaled unit",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "zetta scaled unit",
+    "score": 0.9525741338729858
+  },
+  {
+    "parent": "absorbed dose",
+    "child": "absorbed dose rate",
+    "score": 0.7457688450813293
+  },
+  {
+    "parent": "radiation",
+    "child": "absorbed dose rate",
+    "score": 0.9929336309432983
+  },
+  {
+    "parent": "measured property",
+    "child": "absorbed dose rate",
+    "score": 0.9651191234588623
+  },
+  {
+    "parent": "element",
+    "child": "Gallium",
+    "score": 0.9941347241401672
+  },
+  {
+    "parent": "series element",
+    "child": "Gallium",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "space group property",
+    "child": "space group",
+    "score": 0.9916841983795166
+  },
+  {
+    "parent": "density unit",
+    "child": "magnetic flux density unit",
+    "score": 0.45078244805336
+  },
+  {
+    "parent": "unit",
+    "child": "magnetic flux density unit",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "magnetic flux density unit",
+    "score": 0.9946568012237549
+  },
+  {
+    "parent": "group element",
+    "child": "group 2 element",
+    "score": 0.9939496517181396
+  },
+  {
+    "parent": "series element",
+    "child": "group 2 element",
+    "score": 0.9916195869445801
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "chemical interaction",
+    "score": 0.8640812635421753
+  },
+  {
+    "parent": "chemical quality",
+    "child": "chemical interaction",
+    "score": 0.9916195869445801
+  },
+  {
+    "parent": "process",
+    "child": "chemical interaction",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "material",
+    "child": "mass",
+    "score": 0.526829719543457
+  },
+  {
+    "parent": "measured property",
+    "child": "mass",
+    "score": 0.9937100410461426
+  },
+  {
+    "parent": "series element",
+    "child": "periodic block",
+    "score": 0.8210441470146179
+  },
+  {
+    "parent": "chemical substance",
+    "child": "periodic block",
+    "score": 0.8449215292930603
+  },
+  {
+    "parent": "atom",
+    "child": "Bromine Atom",
+    "score": 0.9942250847816467
+  },
+  {
+    "parent": "hetero cyclic ring",
+    "child": "heterocyclic",
+    "score": 0.9793540239334106
+  },
+  {
+    "parent": "cyclic",
+    "child": "heterocyclic",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "atom",
+    "child": "Phosphorus Atom",
+    "score": 0.9937587976455688
+  },
+  {
+    "parent": "group element",
+    "child": "group 5 element",
+    "score": 0.9936116337776184
+  },
+  {
+    "parent": "series element",
+    "child": "group 5 element",
+    "score": 0.9911527037620544
+  },
+  {
+    "parent": "element",
+    "child": "Aluminium",
+    "score": 0.9940890073776245
+  },
+  {
+    "parent": "series element",
+    "child": "Aluminium",
+    "score": 0.9939963817596436
+  },
+  {
+    "parent": "atom",
+    "child": "Seaborgium Atom",
+    "score": 0.9939024448394775
+  }
+]
